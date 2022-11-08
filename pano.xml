@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.15" id="node1" apprev="18116">
+  <input leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" width="3014" height="3014" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" overlap="1">
+    <level width="3014" height="3014" predecode="0" preload="0"/>
+    <level width="1507" height="1507" predecode="0" preload="0"/>
+    <level width="753" height="753" predecode="0" preload="0"/>
+    <level width="376" height="376" predecode="1" preload="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="49" fovmode="0">
+    <start fov="70" tilt="0" pan="0" projection="4"/>
+    <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+    <min fovpixel="2" tilt="-90" pan="0"/>
+    <max fovstereographic="270" fovfisheye="360" fov="120" tilt="90" pan="360" scaletofit="1"/>
+  </view>
+  <userdata latitude="37.63545341" heading="49" info="" copyright="" customnodeid="" datetime="8/27/22 8:10 AM" description="Enjoying camp breakfast before a fun day of hiking at Bryce Canyon National Park in Utah." author="" source="" nodeid="node1" longitude="-112.16675028" title="Bryce Canyon North Campground" comment="" tags="Assignment 7"/>
+  <hotspots width="180" height="20" wordwrap="1">
+    <label enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" border="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderradius="1" background="1"/>
+    <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+  </hotspots>
+  <media/>
+  <transition enabled="1" zoomin="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomout="0" softedge="0" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafteroutfov="20"/>
+  <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+  <control rubberband="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" lockedwheel="0" contextfullscreen="1" contextvr="1"/>
+</panorama>
